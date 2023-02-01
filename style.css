@@ -1,0 +1,92 @@
+body{
+    font-size: 18px;
+    margin:0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{
+    background-color:#466FD5;
+    margin-bottom: 0px;
+}
+.ico img{
+    width: 10%;
+    margin: 2% 30% 2% 2%;
+}
+.ico{
+    color: white;
+    text-align: center;
+    padding-bottom: 2%;
+text-align:left;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    border-top:10px groove #06246F;
+    border-bottom:10px groove #06246F;
+    margin: 0px;
+    padding: 2%;
+}
+nav a{
+    text-decoration: none;
+    color:black;
+    font-size:24px;
+}
+main h1{
+    text-align:center;
+}
+main p{
+    padding-left: 5%;
+    
+}
+p img{
+float:left;
+margin: 0% 5% 5% 5%;
+}
+.dashed{
+    border: 5px dashed #06246F;
+    border-radius: 25%;
+
+}
+h2{
+    border-bottom: dashed 5px #06246F;
+
+}
+footer{
+    background-color:#2A4380;
+    padding: 2%;
+}
+footer p{
+    color:white;
+    border:5px groove white;
+    padding: 1%;
+}
+
+table{
+    border-collapse: collapse;
+    border:3px #06246F double;
+    text-align: center;
+    margin-bottom: 2%;
+margin-left:5%;
+}
+td,tr{
+    border:3px #06246F double;
+    text-align: center;
+}
+.vaga{
+    width: 40%;
+	margin-left:5%;
+}
+.voda{
+    list-style: url("5.png");
+}
+.kimano{
+    list-style: url("6.png");
+}
+.dovidka{
+    list-style: url("7.png");
+}
+.ryshnuk{
+    list-style: url("8.png");
+}
+.odag{
+    list-style: url("9.png");
+}
